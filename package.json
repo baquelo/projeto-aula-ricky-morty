@@ -1,0 +1,25 @@
+{
+  "name": "projeto-aula-ricky-morty",
+  "version": "1.0.0",
+  "description": "Projeto em aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baquelo/projeto-aula-ricky-morty.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Marcelo Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baquelo/projeto-aula-ricky-morty/issues"
+  },
+  "homepage": "https://github.com/baquelo/projeto-aula-ricky-morty#readme",
+  "dependencies": {
+    "jest": "^25.5.4"
+  }
+}
